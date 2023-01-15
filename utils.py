@@ -1,6 +1,6 @@
 '''
 	===========   ATIVIDADE DE INTRODUCAO A ROBOTICA :: IA EM ROBOTICA MOVEL   =================
-		Simulacao de um agente chgando ao objetivo sem colidir com um obstaculo. Este script
+		Simulacao de um agente chegando ao objetivo sem colidir com um obstaculo. Este script
 	contem as classes Enviroment, Robot e Obstacle. 
 
 	Joao Marcello, 2022
