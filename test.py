@@ -15,7 +15,7 @@ import pickle
 import argparse
 
 parser = argparse.ArgumentParser(description='Testa o aprendizado do agente.')
-parser.add_argument('show', type=str, default='true',help="Use 'true' para exibir a execucao do programa.")
+parser.add_argument('--show', type=str, default='true',help="Use 'true' para exibir a execucao do programa.")
 args = parser.parse_args()
 
 #=============================================================================================+
